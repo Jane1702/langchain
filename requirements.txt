@@ -1,0 +1,13 @@
+langchain 
+pydantic
+docarray
+langchain-community
+pysqlite3-binary
+streamlit
+openai
+unstructured 
+unstructured[docx]
+unstructured[pdf]
+opencv-python-headless
+chromadb == 0.3.29
+tiktoken
